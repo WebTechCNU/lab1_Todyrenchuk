@@ -1,0 +1,42 @@
+.task1{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgba(34, 32, 32, 0.83);
+    margin-bottom: 250px;
+    
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+#into{
+    display: inline;
+}
+
+select, select option ,input,button{
+    color: black;
+}
+
+button{
+    padding: 5px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+select, input{
+    font-size: 20px;
+    border-radius: 3px;
+    border-style:none;
+    padding: 5px;
+}
+
+#result{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+}
